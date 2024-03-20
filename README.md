@@ -2,18 +2,19 @@
 
 ### Resume
 Currently undergoing a career transition into data science, I've completed an intensive 216-hour program, enhancing skills in SQL, Python, and data visualization tools like Power BI, Tableau, and Qlik. The final project involved in-depth exploration of a dataset utilizing clustering techniques and classification models. I also had the opportunity to expand my knowledge and engage in academic projects focusing on machine learning and deep learning, particularly in neural networks such as Recurrent Neural Networks (RNN) and Convolutional Neural Networks (CNN), among others.
+
 With a master's in Energy and Environment and dual degrees in Mechanical and Automotive Engineering, my career spans project development, production management, quality control and product expedition.
 
 ### Qualifications
-Data Science & Business Analytics (E.D.I.T. - 216h)
-Ingestão, modelação e visualização de dados - (Gomes e Canoso - 75h)
-Estrutura De Dados - Python Intermédio (EISnt - 25h)
-Programação Em Linguagem SQL Avançada (DUAL - 50h)
-Gestão de Base de Dados - Power BI (EISnt - 25h)
-Algoritmos – Python (EISnt - 25h)
-Master's in Energy and Environment (Universidade de Coimbra)
-Mechanical Engineering (Universidade de Coimbra)
-Automotive Engineering (Instituto Politécnico de Leiria)
+- Data Science & Business Analytics (E.D.I.T. - 216h)
+- Ingestão, modelação e visualização de dados - (Gomes e Canoso - 75h)
+- Estrutura De Dados - Python Intermédio (EISnt - 25h)
+- Programação Em Linguagem SQL Avançada (DUAL - 50h)
+- Gestão de Base de Dados - Power BI (EISnt - 25h)
+- Algoritmos – Python (EISnt - 25h)
+- Master's in Energy and Environment (Universidade de Coimbra)
+- Mechanical Engineering (Universidade de Coimbra)
+- Automotive Engineering (Instituto Politécnico de Leiria)
 
 ### Work Experience
 PRODUCT DEVELOPMENT @ Port Essentials
