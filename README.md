@@ -20,8 +20,7 @@ With a master's in Energy and Environment and dual degrees in Mechanical and Aut
 - Automotive Engineering (Instituto Politécnico de Leiria)
 
 ## Technical Skills
-> [!NOTE]
-> > (1 - Beginner Academic, training only; 2 - Intermediate Level 1 + small projects or internships; 3 - Advanced Level ½ + project experience; 4 - Professional experienece; 5 - Expert)
+> 1 - Beginner Academic, training only; 2 - Intermediate Level 1 + small projects or internships; 3 - Advanced Level ½ + project experience; 4 - Professional experienece; 5 - Expert
 
 ### Data Science Tools
 - PowerBI - 3
