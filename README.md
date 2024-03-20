@@ -20,7 +20,8 @@ With a master's in Energy and Environment and dual degrees in Mechanical and Aut
 - Automotive Engineering (Instituto Politécnico de Leiria)
 
 ## Technical Skills
-> (1 - Beginner Academic, training only; 2 - Intermediate Level 1 + small projects or internships; 3 - Advanced Level ½ + project experience; 4 - Professional experienece; 5 - Expert)
+> [!NOTE]
+> > (1 - Beginner Academic, training only; 2 - Intermediate Level 1 + small projects or internships; 3 - Advanced Level ½ + project experience; 4 - Professional experienece; 5 - Expert)
 
 ### Data Science Tools
 - PowerBI - 3
@@ -40,23 +41,23 @@ With a master's in Energy and Environment and dual degrees in Mechanical and Aut
 
 ## Work Experience
 
-# PRODUCT DEVELOPMENT @ Port Essentials
+### PRODUCT DEVELOPMENT @ Port Essentials
 - Development of new projects for high-end products for bath and kitchens;
 - Follow up of developed projects from the prototypes to the ﬁnal product;
 - Reverse engineering;
 - Creation\Management of articles in ERP software (Primavera).
 
-# PRODUCTION MANAGER AND PLANNING TECHNICIAN @ Jacinto Marques De Oliveira Sucrs. Lda
+### PRODUCTION MANAGER AND PLANNING TECHNICIAN @ Jacinto Marques De Oliveira Sucrs. Lda
 - Deﬁnition and planning of tasks for teams at production;
 - Manage prodution;
 - Management of work teams;
 - Implementation of KAIZEN methodology.
 
-# PRODUCT DEVELOPMENT @ James Baroud
+### PRODUCT DEVELOPMENT @ James Baroud
 - Product development;
 - CNC machining in resin materials (mold design - CAM).
 
-# MANAGER OF PURCHASE ORDERS AND TECHNICIAN FOR QUALITY AND EXPEDITION @ Marsilinox - Indústria Metalúrgica Lda
+### MANAGER OF PURCHASE ORDERS AND TECHNICIAN FOR QUALITY AND EXPEDITION @ Marsilinox - Indústria Metalúrgica Lda
 - Project management in production (laser cutting, punching, bending, welding);
 - 3D/2D CAD drawings;
 - Product quality control;
