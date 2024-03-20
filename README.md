@@ -16,6 +16,23 @@ With a master's in Energy and Environment and dual degrees in Mechanical and Aut
 - Mechanical Engineering (Universidade de Coimbra)
 - Automotive Engineering (Instituto Politécnico de Leiria)
 
+### Technical Skills
+## Data Science Tools
+PowerBI - 3
+Tableu - 1
+Python - 2
+SQL - 2
+Google Cloud - 1
+PostgreSQL - 1
+
+## Mechanical Eng.Tools
+SolidWorks - 4
+AutoCAD - 3
+Microsoft Project - 4
+OpenFOAM - 3
+Microsoft Office Tools - 4
+Alphacam - 1
+
 ### Work Experience
 PRODUCT DEVELOPMENT @ Port Essentials
 - Development of new projects for high-end products for bath and kitchens;
