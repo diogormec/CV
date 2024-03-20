@@ -40,35 +40,35 @@ With a master's in Energy and Environment and dual degrees in Mechanical and Aut
 
 ## Work Experience
 
-- PRODUCT DEVELOPMENT @ Port Essentials
- - Development of new projects for high-end products for bath and kitchens;
- - Follow up of developed projects from the prototypes to the ﬁnal product;
- - Reverse engineering;
- - Creation\Management of articles in ERP software (Primavera).
+# PRODUCT DEVELOPMENT @ Port Essentials
+- Development of new projects for high-end products for bath and kitchens;
+- Follow up of developed projects from the prototypes to the ﬁnal product;
+- Reverse engineering;
+- Creation\Management of articles in ERP software (Primavera).
 
-- PRODUCTION MANAGER AND PLANNING TECHNICIAN @ Jacinto Marques De Oliveira Sucrs. Lda
- - Deﬁnition and planning of tasks for teams at production;
- - Manage prodution;
- - Management of work teams;
- - Implementation of KAIZEN methodology.
+# PRODUCTION MANAGER AND PLANNING TECHNICIAN @ Jacinto Marques De Oliveira Sucrs. Lda
+- Deﬁnition and planning of tasks for teams at production;
+- Manage prodution;
+- Management of work teams;
+- Implementation of KAIZEN methodology.
 
-- PRODUCT DEVELOPMENT @ James Baroud
- - Product development;
- - CNC machining in resin materials (mold design - CAM).
+# PRODUCT DEVELOPMENT @ James Baroud
+- Product development;
+- CNC machining in resin materials (mold design - CAM).
 
-- MANAGER OF PURCHASE ORDERS AND TECHNICIAN FOR QUALITY AND EXPEDITION @ Marsilinox - Indústria Metalúrgica Lda
- - Project management in production (laser cutting, punching, bending, welding);
- - 3D/2D CAD drawings;
- - Product quality control;
- - National and international shipment of product;
- - Customer support and follow-up of purchase orders;
- - Follow-up of the implementation of a production management system in sage.
- - Product quality control;
- - National and international product shipping.
+# MANAGER OF PURCHASE ORDERS AND TECHNICIAN FOR QUALITY AND EXPEDITION @ Marsilinox - Indústria Metalúrgica Lda
+- Project management in production (laser cutting, punching, bending, welding);
+- 3D/2D CAD drawings;
+- Product quality control;
+- National and international shipment of product;
+- Customer support and follow-up of purchase orders;
+- Follow-up of the implementation of a production management system in sage.
+- Product quality control;
+- National and international product shipping.
 
-- INTERNSHIP @ A. Silva, Godinho & C.ª Lda
- - Operation of milling machines;
- - Introduction to CNC programming (WorkNC and Depocam);
- - Basic notions of design, manufacturing, preparation and operation of plastic injection molds;
- - Production planning (microsoft project);
- - Assessment and treatment of non-conformities.
+# INTERNSHIP @ A. Silva, Godinho & C.ª Lda
+- Operation of milling machines;
+- Introduction to CNC programming (WorkNC and Depocam);
+- Basic notions of design, manufacturing, preparation and operation of plastic injection molds;
+- Production planning (microsoft project);
+- Assessment and treatment of non-conformities.
