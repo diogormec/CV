@@ -1,15 +1,47 @@
 ---
 
-## 👋 About Me
+# 👨‍💻 Diogo Ramalho – Data Scientist | Machine Learning Practitioner | Data Analyst in Training
 
-I’m **Diogo Ramalho**, a Mechanical Engineer (M.Sc. in Energy & Environment, University of Coimbra) transitioning into Data Science & Machine Learning. With a pragmatic engineering background in project development, production, KAIZEN micro‑planning, CNC machining, CAD, and quality control, I’m now fully focused on data-driven technologies.
+I am a **Data Scientist** with a solid engineering foundation, holding a Master’s in Energy & Environment (University of Coimbra) and a Bachelor’s in Automotive Engineering (Polytechnic Institute of Leiria). My experience spans project development, production management, quality control, and product shipment. Currently transitioning to data science, I focus on machine learning, data analysis, and predictive modeling.
 
 ---
 
 ## 🧑‍💻 Current Experience & Training
 
-* **📊 Data Analyst Internship (3 months)** – Currently in progress, concluding soon. This internship is part of the intensive in-person Data Analyst program I began in mid-November and completed in April.
-* **📈 Lisbon Data Science Starters Academy (Remote)** – Ongoing since October, this demanding monthly-interval program includes one-day remote sessions and team-based challenges per module. I’m now in the **final individual phase**, working with real-world data to build a **price prediction model for products**, deployed via an API and ready for production.
+* **📊 Data Analyst Internship (3 months)** – Currently in progress and nearing completion. Part of an intensive in-person Data Analyst training program from November 2024 to April 2025.
+* **📈 Lisbon Data Science Starters Academy (Remote)** – Since October 2024, engaging in intensive monthly remote sessions with team challenges. Currently in the final individual phase, building a price prediction model deployed via API and ready for production.
+
+---
+
+## 🎓 Education & Training
+
+* **Data Science & Business Analytics** – EDIT. – Disruptive Digital Education (216h, 2023–2024)
+  This intensive program provided a comprehensive understanding of data science fundamentals, including data ingestion, modeling, and visualization. It emphasized practical applications and real-world business problems.
+
+* **Data Analyst Internship** – In-person training program (Nov 2024–Apr 2025)
+  Applied data analysis techniques in a professional setting, concluding with a comprehensive internship project.
+
+* **Lisbon Data Science Starters Academy** – Remote (Oct 2024–Present)
+  Engaged in intensive monthly sessions focusing on real-world data challenges, culminating in an individual project involving price prediction models deployed via API.
+
+---
+
+🧠 Technical Skills
+Programming Languages: Python, SQL
+Data Analysis & Visualization: Pandas, NumPy, Matplotlib, Seaborn, Power BI, Tableau
+Machine Learning & Modeling: scikit-learn, XGBoost, TensorFlow, PCA, Model Interpretability
+Tools & Platforms: Jupyter, Google Colab, Git, GitHub, Roboflow, Ultralytics
+Databases: MySQL, PostgreSQL
+Cloud Platforms: AWS, Google Cloud
+
+Highlights
+Experience with end-to-end ML workflows: data cleaning, exploratory data analysis (EDA), feature selection, model training, and performance evaluation.
+
+Evaluated various models including Logistic Regression, Random Forest, SVM, KNN, XGBoost, and Voting Classifier ensembles.
+
+Applied PCA for dimensionality reduction and enhanced result visualization.
+
+Tackled class imbalance challenges and emphasized model interpretability.
 
 ---
 
@@ -34,34 +66,31 @@ Designed a complete object detection pipeline to identify **zippers in images**,
 
 Developed a classifier to distinguish **malignant vs. benign tumors** using the Breast Cancer Wisconsin Diagnostic Dataset.
 
-**Highlights:**
+---
 
-* End-to-end ML workflow: cleaning, EDA, feature selection, training, and performance evaluation.
-* Compared models: Logistic Regression, Random Forest, SVM, KNN, XGBoost, Voting Classifier.
-* Used **PCA** for dimensionality reduction and result visualization.
-* Addressed class imbalance and focused on model interpretability.
+### 📈 Price Prediction Model (Capstone Project)
 
-**Technologies:** Python, scikit‑learn, XGBoost, Matplotlib, Seaborn, Pandas, PCA
+As part of the Lisbon Data Science Academy, developed a predictive model for product pricing, implemented via an API, ready for production deployment.
 
 ---
 
 ## 📚 Education & Certifications
 
-* **Data Science & Business Analytics** – Lisbon Data Science Academy (216h, 2024–2025, remote)
-* **Digital Reskilling – Data Analytics** – CESAE Digital (2024–2025)
-* **No-code Software Development** – NoCode Institute (2024)
-* **Data Analyst Internship & Presential Training** (Nov 2024 – Apr 2025)
-* **Data Ingestion, Modeling & Visualization** – Gomes e Canoso (2023)
-* **Intermediate Python & Data Structures** – EISnt (2022)
-* **Advanced SQL Programming** – DUAL (2022)
-* **Power BI Database Management** – EISnt (2022)
-* **M.Sc. Energy & Environment** – University of Coimbra (2012–2015)
-* **B.Sc. Mechanical Engineering** – University of Coimbra (2009–2012)
-* **B.Sc. Automotive Engineering** – Polytechnic Institute of Leiria (2003–2009)
+**Professional Certifications:**  
+- Data Science & Business Analytics (EDIT, 216h)  
+- Digital Reskilling – Data Analytics (CESAE Digital)  
+- No-code Software Development (NoCode Institute)  
+- Data Ingestion, Modeling & Visualization (Gomes e Canoso)  
+- Advanced SQL & Power BI (DUAL, EISnt)
+
+**Academic Degrees:**  
+- M.Sc. Energy & Environment, University of Coimbra (2012–2015)  
+- B.Sc. Mechanical Engineering, University of Coimbra (2009–2012)  
+- B.Sc. Automotive Engineering, Polytechnic Institute of Leiria (2003–2009)
 
 ---
 
 ## 🌐 Explore More
 
-Discover detailed experience, certifications, and contact information at:
+For detailed experience, certifications, and contact information, visit my website:
 🔗 [diogoramalho19.wixsite.com/cvds/sobre](https://diogoramalho19.wixsite.com/cvds/sobre)
