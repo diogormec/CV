@@ -1,6 +1,6 @@
 ---
 
-# 👨‍💻 Diogo Ramalho – Data Scientist | Machine Learning Practitioner | Data Analyst in Training
+# 👨‍💻 Diogo Ramalho – Data Scientist | Data Analyst
 
 I am a **Data Scientist** with a solid engineering foundation, holding a Master’s in Energy & Environment (University of Coimbra) and a Bachelor’s in Automotive Engineering (Polytechnic Institute of Leiria). My experience spans project development, production management, quality control, and product shipment. Currently transitioning to data science, I focus on machine learning, data analysis, and predictive modeling.
 
@@ -77,11 +77,12 @@ As part of the Lisbon Data Science Academy, developed a predictive model for pro
 ## 📚 Education & Certifications
 
 **Professional Certifications:**  
-- Data Science & Business Analytics (EDIT, 216h)  
-- Digital Reskilling – Data Analytics (CESAE Digital)  
-- No-code Software Development (NoCode Institute)  
-- Data Ingestion, Modeling & Visualization (Gomes e Canoso)  
-- Advanced SQL & Power BI (DUAL, EISnt)
+- Lisbon Data Science Starters Academy (Lisbon Data Science Academy)
+- Digital Reskilling – Data Analytics (CESAE Digital - Porto)
+- Data Science & Business Analytics (EDIT)
+- No-code Software Development (NoCode Institute)
+- Data Ingestion, Modeling & Visualization (Gomes e Canoso)
+- Advanced SQL, Python & Power BI (DUAL, EISnt)
 
 **Academic Degrees:**  
 - M.Sc. Energy & Environment, University of Coimbra (2012–2015)  
