@@ -1,74 +1,67 @@
-# Mechanical Eng. / Junior Data Scientist
+---
 
+## 👋 About Me
 
-## Resume
+I’m **Diogo Ramalho**, a Mechanical Engineer (M.Sc. in Energy & Environment, University of Coimbra) transitioning into Data Science & Machine Learning. With a pragmatic engineering background in project development, production, KAIZEN micro‑planning, CNC machining, CAD, and quality control, I’m now fully focused on data-driven technologies.
 
-Currently undergoing a career transition into data science, I've completed an intensive 216-hour program, enhancing skills in SQL, Python, and data visualization tools like Power BI, Tableau, and Qlik. The final project involved in-depth exploration of a dataset utilizing clustering techniques and classification models. I also had the opportunity to expand my knowledge and engage in academic projects focusing on machine learning and deep learning, particularly in neural networks such as Recurrent Neural Networks (RNN) and Convolutional Neural Networks (CNN), among others.
+---
 
-With a master's in Energy and Environment and dual degrees in Mechanical and Automotive Engineering, my career spans project development, production management, quality control and product expedition.
+## 🧑‍💻 Current Experience & Training
 
-## Qualifications
+* **📊 Data Analyst Internship (3 months)** – Currently in progress, concluding soon. This internship is part of the intensive in-person Data Analyst program I began in mid-November and completed in April.
+* **📈 Lisbon Data Science Starters Academy (Remote)** – Ongoing since October, this demanding monthly-interval program includes one-day remote sessions and team-based challenges per module. I’m now in the **final individual phase**, working with real-world data to build a **price prediction model for products**, deployed via an API and ready for production.
 
-- Data Science & Business Analytics (E.D.I.T. - 216h)
-- Ingestão, modelação e visualização de dados - (Gomes e Canoso - 75h)
-- Estrutura De Dados - Python Intermédio (EISnt - 25h)
-- Programação Em Linguagem SQL Avançada (DUAL - 50h)
-- Gestão de Base de Dados - Power BI (EISnt - 25h)
-- Algoritmos – Python (EISnt - 25h)
-- Master's in Energy and Environment (Universidade de Coimbra)
-- Mechanical Engineering (Universidade de Coimbra)
-- Automotive Engineering (Instituto Politécnico de Leiria)
+---
 
-## Technical Skills
-> 1 - Beginner Academic, training only; 2 - Intermediate Level 1 + small projects or internships; 3 - Advanced Level ½ + project experience; 4 - Professional experienece; 5 - Expert
+## 📂 Featured Projects
 
-### Data Science Tools
-- PowerBI - 3
-- Tableu - 1
-- Python - 2
-- SQL - 2
-- Google Cloud - 1
-- PostgreSQL - 1
+### 🧷 Zipper Object Detection with YOLOv8
 
-### Mechanical Eng.Tools
-- SolidWorks - 4
-- AutoCAD - 3
-- Microsoft Project - 4
-- OpenFOAM - 3
-- Microsoft Office Tools - 4
-- Alphacam - 1
+Designed a complete object detection pipeline to identify **zippers in images**, leveraging **YOLOv8** and **Roboflow**, and executed training on **Google Colab**.
 
-## Work Experience
+**Highlights:**
 
-### Product Development @ Port Essentials
-- Development of new projects for high-end products for bath and kitchens;
-- Follow up of developed projects from the prototypes to the ﬁnal product;
-- Reverse engineering;
-- Creation\Management of articles in ERP software (Primavera).
+* Full workflow: dataset curation through Roboflow, YOLOv8m training, validation, and inference.
+* Achieved outstanding metrics: **mAP50 = 0.97**, Precision = 0.94, Recall = 0.875.
+* Visual evaluation using F1/PR curves and confusion matrices.
+* Suitable for real-world industrial or apparel industry use cases.
 
-### Production Manager and Planning Technician @ Jacinto Marques De Oliveira Sucrs. Lda
-- Deﬁnition and planning of tasks for teams at production;
-- Manage prodution;
-- Management of work teams;
-- Implementation of KAIZEN methodology.
+**Technologies:** YOLOv8, Roboflow, Python, Ultralytics, OpenCV, Google Colab
 
-### Product Development @ James Baroud
-- Product development;
-- CNC machining in resin materials (mold design - CAM).
+---
 
-### Manager of Purchase Orders and Technician for Quality and Expedition @ Marsilinox - Indústria Metalúrgica Lda
-- Project management in production (laser cutting, punching, bending, welding);
-- 3D/2D CAD drawings;
-- Product quality control;
-- National and international shipment of product;
-- Customer support and follow-up of purchase orders;
-- Follow-up of the implementation of a production management system in sage.
-- Product quality control;
-- National and international product shipping.
+### 🔬 Breast Cancer Diagnosis Using Machine Learning
 
-### Internship @ A. Silva, Godinho & C.ª Lda
-- Operation of milling machines;
-- Introduction to CNC programming (WorkNC and Depocam);
-- Basic notions of design, manufacturing, preparation and operation of plastic injection molds;
-- Production planning (microsoft project);
-- Assessment and treatment of non-conformities.
+Developed a classifier to distinguish **malignant vs. benign tumors** using the Breast Cancer Wisconsin Diagnostic Dataset.
+
+**Highlights:**
+
+* End-to-end ML workflow: cleaning, EDA, feature selection, training, and performance evaluation.
+* Compared models: Logistic Regression, Random Forest, SVM, KNN, XGBoost, Voting Classifier.
+* Used **PCA** for dimensionality reduction and result visualization.
+* Addressed class imbalance and focused on model interpretability.
+
+**Technologies:** Python, scikit‑learn, XGBoost, Matplotlib, Seaborn, Pandas, PCA
+
+---
+
+## 📚 Education & Certifications
+
+* **Data Science & Business Analytics** – Lisbon Data Science Academy (216h, 2024–2025, remote)
+* **Digital Reskilling – Data Analytics** – CESAE Digital (2024–2025)
+* **No-code Software Development** – NoCode Institute (2024)
+* **Data Analyst Internship & Presential Training** (Nov 2024 – Apr 2025)
+* **Data Ingestion, Modeling & Visualization** – Gomes e Canoso (2023)
+* **Intermediate Python & Data Structures** – EISnt (2022)
+* **Advanced SQL Programming** – DUAL (2022)
+* **Power BI Database Management** – EISnt (2022)
+* **M.Sc. Energy & Environment** – University of Coimbra (2012–2015)
+* **B.Sc. Mechanical Engineering** – University of Coimbra (2009–2012)
+* **B.Sc. Automotive Engineering** – Polytechnic Institute of Leiria (2003–2009)
+
+---
+
+## 🌐 Explore More
+
+Discover detailed experience, certifications, and contact information at:
+🔗 [diogoramalho19.wixsite.com/cvds/sobre](https://diogoramalho19.wixsite.com/cvds/sobre)
