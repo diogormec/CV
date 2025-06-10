@@ -60,13 +60,13 @@ Designed a complete object detection pipeline to identify **zippers in images**,
 
 **Technologies:** YOLOv8, Roboflow, Python, Ultralytics, OpenCV, Google Colab
 
----
+
 
 ### 🔬 Breast Cancer Diagnosis Using Machine Learning
 
 Developed a classifier to distinguish **malignant vs. benign tumors** using the Breast Cancer Wisconsin Diagnostic Dataset.
 
----
+
 
 ### 📈 Price Prediction Model (Capstone Project)
 
