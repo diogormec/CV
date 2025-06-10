@@ -26,22 +26,34 @@ I am a **Data Scientist** with a solid engineering foundation, holding a Master�
 
 ---
 
-🧠 Technical Skills
-Programming Languages: Python, SQL
-Data Analysis & Visualization: Pandas, NumPy, Matplotlib, Seaborn, Power BI, Tableau
-Machine Learning & Modeling: scikit-learn, XGBoost, TensorFlow, PCA, Model Interpretability
-Tools & Platforms: Jupyter, Google Colab, Git, GitHub, Roboflow, Ultralytics
-Databases: MySQL, PostgreSQL
-Cloud Platforms: AWS, Google Cloud
+## 🧠 Technical Skills
 
-Highlights
-Experience with end-to-end ML workflows: data cleaning, exploratory data analysis (EDA), feature selection, model training, and performance evaluation.
+**Programming Languages:**
+Python, SQL
 
-Evaluated various models including Logistic Regression, Random Forest, SVM, KNN, XGBoost, and Voting Classifier ensembles.
+**Data Analysis & Visualization:**
+Pandas, NumPy, Matplotlib, Seaborn, Power BI, Tableau
 
-Applied PCA for dimensionality reduction and enhanced result visualization.
+**Machine Learning & Modeling:**
+scikit-learn, XGBoost, TensorFlow, PCA, Model Interpretability Techniques
 
-Tackled class imbalance challenges and emphasized model interpretability.
+**Tools & Platforms:**
+Jupyter Notebook, Google Colab, Git, GitHub, Roboflow, Ultralytics
+
+**Databases:**
+MySQL, PostgreSQL
+
+**Cloud Platforms:**
+AWS, Google Cloud
+
+---
+
+## 🔎 Highlights
+
+* Experienced in end-to-end machine learning workflows, including data cleaning, exploratory data analysis (EDA), feature engineering, model training, tuning, and performance evaluation.
+* Skilled in evaluating diverse classification models such as Logistic Regression, Random Forest, Support Vector Machines (SVM), K-Nearest Neighbors (KNN), XGBoost, and ensemble methods like Voting Classifiers.
+* Applied Principal Component Analysis (PCA) to reduce dimensionality and improve model interpretability and visualization.
+* Addressed challenges related to class imbalance through resampling techniques and ensured transparent, interpretable models suitable for business insights.
 
 ---
 
