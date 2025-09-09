@@ -63,7 +63,7 @@ End-to-end **ML pipeline** for competitor price prediction using **LightGBM**, w
 
 ---
 
-### 💼 CESAE Data Analyst Final Project – Worker Health Consulting  
+### 💼 Financial and Predictive Analysis of Personnel Expenses (CESAE)  
 Led a **comprehensive HR analytics project**, developing a **Business Intelligence system** for personnel cost analysis and forecasting. Generated actionable insights for budgeting, staff planning, and retention strategies.  
 
 **Key Achievements:**  
