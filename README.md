@@ -113,9 +113,9 @@ Built a classifier to distinguish **malignant vs. benign tumors** using the **Br
 
 ## 🌐 Explore More  
 
-🔗 [Portfolio Website](https://diogoramalho19.wixsite.com/cvds/sobre)  
-🔗 [LinkedIn](https://www.linkedin.com/in/diogo-ramalho-ml)  
-🔗 [GitHub](https://github.com/diogoramalho19)  
+🔗 [Portfolio Website](https://diogoramalho19.wixsite.com/cvds)  
+🔗 [LinkedIn](http://www.linkedin.com/in/dramalhoeng)
+🔗 [GitHub]([https://github.com/diogoramalho19](https://github.com/diogormec))  
 
 ---
 
