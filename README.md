@@ -26,11 +26,11 @@ Currently, I work as a **Junior AI & ML Data Specialist**, designing predictive 
 
 ## 🎓 Education & Training
 
-* **Lisbon Data Science Starters Academy (LDSSA)** – Remote (Oct 2024 – Jul 2025)  
+* **Lisbon Data Science Starters Academy (LDSSA)** – Remote (~350h, Oct 2024 – Jul 2025)  
   Intensive 34-week part-time program focusing on **practical Data Science applications**. Covered Python, supervised learning (classification & regression), time series, NLP, recommender systems, and model evaluation. Participated in **6 collaborative hackathons** and completed a final Capstone Project with **API deployment and technical report**.  
   **Key skills:** Python, Pandas, NumPy, scikit-learn, Jupyter Notebook, Git/GitHub, ML pipelines, feature engineering, hyperparameter tuning, data storytelling, API development (Flask/FastAPI).  
 
-* **Data Analyst Program – CESAE Digital** – Hybrid (Nov 2024 – Jul 2025)  
+* **Data Analyst Program – CESAE Digital** – (1050h, Nov 2024 – Jul 2025)  
   Comprehensive **data analysis training with applied business projects**, including SQL, Python, R, Power BI, and ETL pipelines. Integrated **3-month internship at Crunch**, applying skills to real-world data projects and delivering actionable insights. Offered position as **Junior AI & ML Data Specialist** upon completion.  
 
 * **Data Science & Business Analytics** – EDIT. – Disruptive Digital Education (216h, Sep 2023 – Feb 2024)  
