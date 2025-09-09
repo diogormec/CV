@@ -6,6 +6,15 @@ Currently, I work as a **Junior AI & ML Data Specialist**, designing predictive 
 
 ---
 
+## 🌟 Highlights / Key Achievements
+
+- Deployed ML model achieving **97% accuracy** in production (YOLOv8).  
+- Led **6 collaborative hackathons** in LDSSA program.  
+- Developed end-to-end **BI solutions** reducing forecast error to **3.05%**.  
+- Built interactive dashboards and predictive models enabling **strategic business decisions**.  
+
+---
+
 ## 💼 Current Role  
 
 **Junior AI & ML Data Specialist (May 2025 – Present)**  
@@ -48,33 +57,46 @@ Currently, I work as a **Junior AI & ML Data Specialist**, designing predictive 
 
 ## 📂 Featured Projects  
 
-### 📈 Competitor Price Forecasting (Capstone, LDSSA)  
-End-to-end **ML pipeline** using **LightGBM**, with **feature engineering** and **time-aware cross-validation**. Deployed as a **Flask API** on Railway, fully integrated with a database for **real-time predictions**.  
-**Technologies:** Python, LightGBM, Flask, Railway, SQL  
+### 📈 Competitor Price Forecasting (LDSSA)  
+End-to-end **ML pipeline** for competitor price prediction using **LightGBM**, with comprehensive **feature engineering**, **time-aware cross-validation**, and deployment as a **production-ready Flask API** on Railway, fully integrated with a database for **real-time predictions**.  
+**Technical Skills:** Python, LightGBM, Feature Engineering, Flask, Railway, SQL, API Deployment, Time Series Modeling  
 
 ---
 
-### 🏪 Retail Sales Forecasting  
-Performed **exploratory analysis**, clustering of stores using **K-Means and PCA**, and predictive modeling with **XGBoost** achieving ~79% accuracy. Results were integrated into an **interactive Power BI dashboard** to support business decisions.  
-**Technologies:** Python, XGBoost, PCA, K-Means, Power BI  
+### 💼 CESAE Data Analyst Final Project – Worker Health Consulting  
+Led a **comprehensive HR analytics project**, developing a **Business Intelligence system** for personnel cost analysis and forecasting. Generated actionable insights for budgeting, staff planning, and retention strategies.  
+
+**Key Achievements:**  
+- Designed **interactive dashboards** in Power BI and Excel covering turnover, salary distribution, departmental costs, and individual employee impact.  
+- Created **synthetic datasets (2013–2025)** ensuring realistic distributions across professions, departments, and temporal trends.  
+- Developed a **predictive SARIMA model** capturing trends and seasonality, achieving **RMSE = 3.05% (€45,479 average deviation)**.  
+- Delivered insights enabling **strategic HR decision-making** and cost optimization.  
+
+**Technical Skills:** Python (Pandas, NumPy, Statsmodels), SQL, Power BI, Excel, Data Visualization, Predictive Modeling  
+
+---
+
+### 🏪 Retail Sales Forecasting (EDIT)  
+Performed **exploratory data analysis**, clustering of stores using **K-Means and PCA**, and predictive modeling with **XGBoost** (~79% accuracy). Integrated results into an **interactive Power BI dashboard** for business decision support.  
+**Technical Skills:** Python, XGBoost, PCA, K-Means, Power BI, EDA, Feature Engineering  
 
 ---
 
 ### 🧷 Zipper Object Detection with YOLOv8  
-Developed a **computer vision model** to detect zippers in images, trained on a custom dataset managed with **Roboflow**. Used the **YOLOv8m** variant, achieving **mAP50 = 0.97** with high precision and recall.  
-**Technologies:** YOLOv8, Roboflow, Python, Ultralytics, OpenCV, Google Colab  
+Developed a **computer vision model** for detecting zippers in images, trained on a custom dataset managed via **Roboflow**. Used **YOLOv8m**, achieving **mAP50 = 0.97** with high precision and recall.  
+**Technical Skills:** YOLOv8, Roboflow, Python, Ultralytics, OpenCV, Google Colab, Object Detection, Model Evaluation  
 
 ---
 
 ### 🏍 MotoGP Data Automation & Reporting  
-Automated the **extraction and processing of race data** from unstructured **MotoGP PDFs** using advanced **Python and regex**. Built **interactive dashboards** in Power BI and Tableau to analyze rider and team performance.  
-**Technologies:** Python, regex, PDFPlumber, Pandas, Power BI, Tableau  
+Automated **data extraction and processing** from unstructured **MotoGP PDFs** using advanced **Python and regex**, creating **interactive dashboards** in Power BI and Tableau to explore rider and team performance.  
+**Technical Skills:** Python, Regex, PDFPlumber, Pandas, Power BI, Tableau, Data Wrangling, Data Visualization  
 
 ---
 
 ### 🔬 Breast Cancer Diagnosis Using Machine Learning  
-Built a classifier to distinguish **malignant vs. benign tumors** using the **Breast Cancer Wisconsin Diagnostic Dataset**, applying and evaluating multiple ML algorithms.  
-**Technologies:** Python, scikit-learn, Random Forest, Logistic Regression, SVM  
+Built a classifier to distinguish **malignant vs. benign tumors** using the **Breast Cancer Wisconsin Diagnostic Dataset**, evaluating multiple ML algorithms.  
+**Technical Skills:** Python, scikit-learn, Random Forest, Logistic Regression, SVM, Classification, Model Evaluation  
 
 ---
 
@@ -94,3 +116,8 @@ Built a classifier to distinguish **malignant vs. benign tumors** using the **Br
 🔗 [Portfolio Website](https://diogoramalho19.wixsite.com/cvds/sobre)  
 🔗 [LinkedIn](https://www.linkedin.com/in/diogo-ramalho-ml)  
 🔗 [GitHub](https://github.com/diogoramalho19)  
+
+---
+
+🤝 **Interested in collaborating?**  
+Feel free to reach out for data science opportunities or project discussions!
