@@ -1,109 +1,96 @@
+# 👨‍💻 Diogo Ramalho – Data Scientist | Data Analyst  
+
+I am a **Data Scientist** with a solid engineering foundation, holding a Master’s in Energy & Environment (University of Coimbra) and a Bachelor’s in Automotive Engineering (Polytechnic Institute of Leiria). My professional background combines more than a decade of experience in **Engineering and Production Management** with recent specialization in **Data Science and Machine Learning**.  
+
+Currently, I work as a **Junior AI & ML Data Specialist**, designing predictive models, automating complex data workflows, and creating business intelligence dashboards that support data-driven decision-making.  
+
 ---
 
-# 👨‍💻 Diogo Ramalho – Data Scientist | Data Analyst
+## 💼 Current Role  
 
-I am a **Data Scientist** with a solid engineering foundation, holding a Master’s in Energy & Environment (University of Coimbra) and a Bachelor’s in Automotive Engineering (Polytechnic Institute of Leiria). My experience spans project development, production management, quality control, and product shipment. Currently transitioning to data science, I focus on machine learning, data analysis, and predictive modeling.
-
----
-
-## 🧑‍💻 Current Experience & Training
-
-* **📊 Data Analyst Internship (3 months)** – Currently in progress and nearing completion. Part of an intensive in-person Data Analyst training program from November 2024 to April 2025.
-* **📈 Lisbon Data Science Starters Academy (Remote)** – Since October 2024, engaging in intensive monthly remote sessions with team challenges. Currently in the final individual phase, building a price prediction model deployed via API and ready for production.
+**Junior AI & ML Data Specialist (May 2025 – Present)**  
+- Designed and implemented a **churn prediction model**.  
+- Built **automated data aggregation and validation pipelines** in Python.  
+- Developed **Power BI dashboards** integrating scraped and processed data to support strategic business decisions.  
 
 ---
 
 ## 🎓 Education & Training
 
-* **Data Science & Business Analytics** – EDIT. – Disruptive Digital Education (216h, 2023–2024)
-  This intensive program provided a comprehensive understanding of data science fundamentals, including data ingestion, modeling, and visualization. It emphasized practical applications and real-world business problems.
+* **Lisbon Data Science Starters Academy (LDSSA)** – Remote (Oct 2024 – Jul 2025)  
+  Intensive 34-week part-time program focusing on **practical Data Science applications**. Covered Python, supervised learning (classification & regression), time series, NLP, recommender systems, and model evaluation. Participated in **6 collaborative hackathons** and completed a final Capstone Project with **API deployment and technical report**.  
+  **Key skills:** Python, Pandas, NumPy, scikit-learn, Jupyter Notebook, Git/GitHub, ML pipelines, feature engineering, hyperparameter tuning, data storytelling, API development (Flask/FastAPI).  
 
-* **Data Analyst Internship** – In-person training program (Nov 2024–Apr 2025)
-  Applied data analysis techniques in a professional setting, concluding with a comprehensive internship project.
+* **Data Analyst Program – CESAE Digital** – Hybrid (Nov 2024 – Jul 2025)  
+  Comprehensive **data analysis training with applied business projects**, including SQL, Python, R, Power BI, and ETL pipelines. Integrated **3-month internship at Crunch**, applying skills to real-world data projects and delivering actionable insights. Offered position as **Junior AI & ML Data Specialist** upon completion.  
 
-* **Lisbon Data Science Starters Academy** – Remote (Oct 2024–Present)
-  Engaged in intensive monthly sessions focusing on real-world data challenges, culminating in an individual project involving price prediction models deployed via API.
+* **Data Science & Business Analytics** – EDIT. – Disruptive Digital Education (216h, Sep 2023 – Feb 2024)  
+  Hands-on program covering **Python, Machine Learning, PySpark, SQL, and Business Intelligence**, culminating in a real-world project with a strategic dashboard.  
 
----
-
-## 🧠 Technical Skills
-
-**Programming Languages:**
-Python, SQL
-
-**Data Analysis & Visualization:**
-Pandas, NumPy, Matplotlib, Seaborn, Power BI, Tableau
-
-**Machine Learning & Modeling:**
-scikit-learn, XGBoost, TensorFlow, PCA, Model Interpretability Techniques
-
-**Tools & Platforms:**
-Jupyter Notebook, Google Colab, Git, GitHub, Roboflow, Ultralytics
-
-**Databases:**
-MySQL, PostgreSQL
-
-**Cloud Platforms:**
-AWS, Google Cloud
+* **Academic Degrees**:  
+  - M.Sc. Energy & Environment – University of Coimbra (2012–2015)  
+  - B.Sc. Mechanical Engineering – University of Coimbra (2009–2012)  
+  - B.Sc. Automotive Engineering – Polytechnic Institute of Leiria (2003–2009)  
 
 ---
 
-## 🔎 Highlights
+## 🧠 Technical Skills  
 
-* Experienced in end-to-end machine learning workflows, including data cleaning, exploratory data analysis (EDA), feature engineering, model training, tuning, and performance evaluation.
-* Skilled in evaluating diverse classification models such as Logistic Regression, Random Forest, Support Vector Machines (SVM), K-Nearest Neighbors (KNN), XGBoost, and ensemble methods like Voting Classifiers.
-* Applied Principal Component Analysis (PCA) to reduce dimensionality and improve model interpretability and visualization.
-* Addressed challenges related to class imbalance through resampling techniques and ensured transparent, interpretable models suitable for business insights.
-
----
-
-## 📂 Featured Projects
-
-### 🧷 Zipper Object Detection with YOLOv8
-
-Designed a complete object detection pipeline to identify **zippers in images**, leveraging **YOLOv8** and **Roboflow**, and executed training on **Google Colab**.
-
-**Highlights:**
-
-* Full workflow: dataset curation through Roboflow, YOLOv8m training, validation, and inference.
-* Achieved outstanding metrics: **mAP50 = 0.97**, Precision = 0.94, Recall = 0.875.
-* Visual evaluation using F1/PR curves and confusion matrices.
-* Suitable for real-world industrial or apparel industry use cases.
-
-**Technologies:** YOLOv8, Roboflow, Python, Ultralytics, OpenCV, Google Colab
-
-
-
-### 🔬 Breast Cancer Diagnosis Using Machine Learning
-
-Developed a classifier to distinguish **malignant vs. benign tumors** using the Breast Cancer Wisconsin Diagnostic Dataset.
-
-
-
-### 📈 Price Prediction Model (Capstone Project)
-
-As part of the Lisbon Data Science Academy, developed a predictive model for product pricing, implemented via an API, ready for production deployment.
+**Programming & Data:** Python, R, SQL, PySpark, Pandas, NumPy  
+**Visualization:** Power BI, Tableau, Matplotlib, Seaborn  
+**Machine Learning & AI:** scikit-learn, XGBoost, LightGBM, TensorFlow, PyTorch, PCA, K-Means, Model Interpretability  
+**Computer Vision:** YOLOv8, OpenCV, Roboflow, Ultralytics  
+**Databases:** MySQL, PostgreSQL  
+**Deployment & Tools:** Flask, Railway, Jupyter Notebook, Google Colab, Git/GitHub, joblib  
+**Cloud:** AWS, Google Cloud  
 
 ---
 
-## 📚 Education & Certifications
+## 📂 Featured Projects  
 
-**Professional Certifications:**  
-- Lisbon Data Science Starters Academy (Lisbon Data Science Academy)
-- Digital Reskilling – Data Analytics (CESAE Digital - Porto)
-- Data Science & Business Analytics (EDIT)
-- No-code Software Development (NoCode Institute)
-- Data Ingestion, Modeling & Visualization (Gomes e Canoso)
-- Advanced SQL, Python & Power BI (DUAL, EISnt)
-
-**Academic Degrees:**  
-- M.Sc. Energy & Environment, University of Coimbra (2012–2015)  
-- B.Sc. Mechanical Engineering, University of Coimbra (2009–2012)  
-- B.Sc. Automotive Engineering, Polytechnic Institute of Leiria (2003–2009)
+### 📈 Competitor Price Forecasting (Capstone, LDSSA)  
+End-to-end **ML pipeline** using **LightGBM**, with **feature engineering** and **time-aware cross-validation**. Deployed as a **Flask API** on Railway, fully integrated with a database for **real-time predictions**.  
+**Technologies:** Python, LightGBM, Flask, Railway, SQL  
 
 ---
 
-## 🌐 Explore More
+### 🏪 Retail Sales Forecasting  
+Performed **exploratory analysis**, clustering of stores using **K-Means and PCA**, and predictive modeling with **XGBoost** achieving ~79% accuracy. Results were integrated into an **interactive Power BI dashboard** to support business decisions.  
+**Technologies:** Python, XGBoost, PCA, K-Means, Power BI  
 
-For detailed experience, certifications, and contact information, visit my website:
-🔗 [diogoramalho19.wixsite.com/cvds/sobre](https://diogoramalho19.wixsite.com/cvds/sobre)
+---
+
+### 🧷 Zipper Object Detection with YOLOv8  
+Developed a **computer vision model** to detect zippers in images, trained on a custom dataset managed with **Roboflow**. Used the **YOLOv8m** variant, achieving **mAP50 = 0.97** with high precision and recall.  
+**Technologies:** YOLOv8, Roboflow, Python, Ultralytics, OpenCV, Google Colab  
+
+---
+
+### 🏍 MotoGP Data Automation & Reporting  
+Automated the **extraction and processing of race data** from unstructured **MotoGP PDFs** using advanced **Python and regex**. Built **interactive dashboards** in Power BI and Tableau to analyze rider and team performance.  
+**Technologies:** Python, regex, PDFPlumber, Pandas, Power BI, Tableau  
+
+---
+
+### 🔬 Breast Cancer Diagnosis Using Machine Learning  
+Built a classifier to distinguish **malignant vs. benign tumors** using the **Breast Cancer Wisconsin Diagnostic Dataset**, applying and evaluating multiple ML algorithms.  
+**Technologies:** Python, scikit-learn, Random Forest, Logistic Regression, SVM  
+
+---
+
+## 📚 Certifications  
+
+- Lisbon Data Science Starters Academy (LDSSA)  
+- Data Analyst Internship (CESAE Digital – Porto)  
+- Data Science & Business Analytics (EDIT)  
+- Advanced SQL, Python & Power BI (DUAL, EISnt)  
+- Data Ingestion, Modeling & Visualization (Gomes e Canoso)  
+- No-code Software Development (NoCode Institute)  
+
+---
+
+## 🌐 Explore More  
+
+🔗 [Portfolio Website](https://diogoramalho19.wixsite.com/cvds/sobre)  
+🔗 [LinkedIn](https://www.linkedin.com/in/diogo-ramalho-ml)  
+🔗 [GitHub](https://github.com/diogoramalho19)  
